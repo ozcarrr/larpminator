@@ -26,8 +26,8 @@ Larpminator is a Laravel web application that analyzes technical interview trans
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ozcarrr/larpminator2.git
-cd larpminator2
+git clone https://github.com/ozcarrr/larpminator.git
+cd larpminator
 ```
 
 2. Install Composer dependencies:
